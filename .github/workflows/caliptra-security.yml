@@ -1,5 +1,5 @@
 name: Caliptra Security
-run-name: caliptra-ci-pppomg
+run-name: caliptra-ci-jfq545
 on:
   pull_request:
     branches: [master]
